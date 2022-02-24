@@ -22,16 +22,3 @@
     </div>
   </div>
 </template>
-
-<script>
-import tweetsData from "../../tweets.json";
-
-export default {
-  data() {
-    return {
-      tweets: tweetsData,
-      filter: "",
-    };
-  },
-};
-</script>
