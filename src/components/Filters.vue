@@ -6,7 +6,7 @@
       v-for="filter in filters"
       :key="filter"
       @click="() => filterTweets(filter)"
-      class="cursor-pointer text-slate-400 hover:text-blue-500 px-3"
+      class="cursor-pointer text-slate-100 hover:text-blue-500 px-3"
     >
       {{ filter }}
     </span>

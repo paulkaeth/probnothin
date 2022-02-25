@@ -3,7 +3,7 @@
     <div
       class="relative z-10 py-24 md:py-32 lg:py-48 md:max-w-screen-xl md:mx-auto px-6"
     >
-      <div class="hero text-center text-slate-400 font-black tracking-tight">
+      <div class="hero text-center text-slate-100 font-black tracking-tight">
         <p
           class="text-2xl mb-6 md:text-4xl lg:text-5xl lg:mb-12 text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500"
         >
@@ -15,10 +15,10 @@
           Probably Nothing, right?
         </h2>
         <button
-          class="relative inline-flex items-center justify-center p-1 overflow-hidden text-lg text-slate-400 rounded group bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 group-hover:from-pink-500 group-hover:via-purple-500 group-hover:to-pink-500 hover:text-slate-200 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-800"
+          class="relative inline-flex items-center justify-center p-1 overflow-hidden text-lg text-slate-100 rounded group bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 group-hover:from-pink-500 group-hover:via-purple-500 group-hover:to-pink-500 hover:text-slate-200 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-800"
         >
           <span
-            class="relative px-12 py-6 transition-all ease-in duration-75 dark:bg-slate-900 rounded group-hover:bg-opacity-0"
+            class="relative px-12 py-6 transition-all ease-in duration-75 dark:bg-black rounded group-hover:bg-opacity-0"
           >
             <a href="https://theopendao.com" target="_blank"
               >Check out TheOpenDAO</a

@@ -5,13 +5,13 @@
     >
       <div>
         <h1
-          class="font-black text-4xl text-slate-400 text-center tracking-tight"
+          class="font-black text-4xl text-slate-200 text-center tracking-tight"
         >
           #ProbablyNothing
         </h1>
       </div>
       <div class="hidden md:block">
-        <nav class="text-slate-400 flex space-x-8">
+        <nav class="text-slate-200 flex space-x-8">
           <a
             target="_blank"
             href="https://theopendao.com"

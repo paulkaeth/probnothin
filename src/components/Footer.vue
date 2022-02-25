@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div
-      class="md:max-w-screen-xl md:mx-auto px-6 py-24 md:py-32 lg:py-48 text-center text-slate-400"
+      class="md:max-w-screen-xl md:mx-auto px-6 py-24 md:py-32 lg:py-48 text-center text-slate-100"
     >
       <a href="https://theopendao.com" class="hover:text-blue-500"
         >TheOpenDAO</a
